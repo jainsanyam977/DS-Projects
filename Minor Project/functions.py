@@ -1,5 +1,4 @@
 import numpy as np
-from word2vec import *
 
 def read_glove_vecs(glove_file):
     with open(glove_file, 'r', encoding="utf8") as f:

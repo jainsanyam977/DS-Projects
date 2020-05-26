@@ -30,15 +30,15 @@ The results revealed that the data set is unbalanced, hence I balanced the data 
 
 The Logistic Regression model outperformed the other approach on the test sets. 
 
-* **Decison Tree** 
+**Decison Tree** 
 
- *Before Balancing :*
+*Before Balancing :*
 
 >[[ 173   97]
 
 >[  86 1085]]
 
-  * *After Balancing :* 
+*After Balancing :* 
 
 >[[ 216   51]
 
@@ -46,13 +46,13 @@ The Logistic Regression model outperformed the other approach on the test sets.
                     
 **Logistic Regression** 
 
-  * *Before Balancing :* 
+*Before Balancing :* 
 
 >[[ 147  123]
 
 >[  35 1136]]
 
-  * *After Balancing :* 
+*After Balancing :* 
 
 >[[ 229  38]
 

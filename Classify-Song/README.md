@@ -34,11 +34,13 @@ The Logistic Regression model outperformed the other approach on the test sets.
 Before Balancing : 
 
 >[[ 173   97]
+
 >[  86 1085]]
 
 After Balancing : 
 
 [[ 216   51]
+
 [  60 219]]     
                     
 **Logistic Regression** 
@@ -46,11 +48,13 @@ After Balancing :
 Before Balancing : 
 
 >[[ 147  123]
+
 >[  35 1136]]
 
 After Balancing : 
 
 >[[ 229  38]
+
 >[  41 238]]                         
 
 The Cross-Validation results for both models:

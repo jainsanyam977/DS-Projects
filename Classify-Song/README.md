@@ -32,7 +32,7 @@ The Logistic Regression model outperformed the other approach on the test sets.
 
 * **Decison Tree** 
 
-  * *Before Balancing :*
+ *Before Balancing :*
 
 >[[ 173   97]
 

@@ -20,6 +20,7 @@ I tried to two different models and evaluated them with the help of confusion ma
 
 I tried two different models:
 **Decison Tree**
+
 **Logistic Regression**
 
 The results revealed that the data set is unbalanced, hence I balanced the data and re-trained both models.

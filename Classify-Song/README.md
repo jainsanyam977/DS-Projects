@@ -19,6 +19,7 @@ Firstly, I split the data into training and testing set in the ration of 70:30.
 I tried to two different models and evaluated them with the help of confusion matrix as to check various aspects of models. 
 
 I tried two different models:
+
 **Decison Tree**
 
 **Logistic Regression**
@@ -30,14 +31,18 @@ The Logistic Regression model outperformed the other approach on the test sets.
 
 **Decison Tree** 
 Before Balancing : [[ 173   97]
+
                     [  86 1085]]
 After Balancing : [[ 216   51]
+
                     [  60 219]]     
                     
 **Logistic Regression** 
 Before Balancing : [[ 147  123]
+
                     [  35 1136]]
 After Balancing : [[ 229  38]
+
                     [  41 238]]                         
 
 The Cross-Validation results for both models:

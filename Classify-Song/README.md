@@ -42,15 +42,16 @@ After Balancing :
 **Logistic Regression** 
 Before Balancing : 
 
-[[ 147  123]
-[  35 1136]]
+>[[ 147  123]
+>[  35 1136]]
+
 After Balancing : 
 
-[[ 229  38]
-[  41 238]]                         
+>[[ 229  38]
+>[  41 238]]                         
 
 The Cross-Validation results for both models:
 
-Decison Tree: 0.760989010989011
+>Decison Tree: 0.760989010989011
 
-Logistic Model: 0.8186813186813187
+>Logistic Model: 0.8186813186813187

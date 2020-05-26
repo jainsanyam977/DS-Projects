@@ -40,9 +40,9 @@ The Logistic Regression model outperformed the other approach on the test sets.
 
   * *After Balancing :* 
 
-[[ 216   51]
+>[[ 216   51]
 
-[  60 219]]     
+>[  60 219]]     
                     
 **Logistic Regression** 
 

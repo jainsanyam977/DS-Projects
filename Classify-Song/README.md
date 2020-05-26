@@ -30,22 +30,23 @@ The results revealed that the data set is unbalanced, hence I balanced the data 
 The Logistic Regression model outperformed the other approach on the test sets. 
 
 **Decison Tree** 
-Before Balancing : [[ 173   97]
-
-                    [  86 1085]]
-After Balancing : [[ 216   51]
-
-                    [  60 219]]     
+Before Balancing : 
+[[ 173   97]
+[  86 1085]]
+After Balancing : 
+[[ 216   51]
+[  60 219]]     
                     
 **Logistic Regression** 
-Before Balancing : [[ 147  123]
-
-                    [  35 1136]]
-After Balancing : [[ 229  38]
-
-                    [  41 238]]                         
+Before Balancing : 
+[[ 147  123]
+[  35 1136]]
+After Balancing : 
+[[ 229  38]
+[  41 238]]                         
 
 The Cross-Validation results for both models:
 
 Decison Tree: 0.760989010989011
+
 Logistic Model: 0.8186813186813187

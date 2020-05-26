@@ -18,7 +18,7 @@ Firstly, I split the data into training and testing set in the ration of 70:30.
 
 I tried to two different models and evaluated them with the help of confusion matrix as to check various aspects of models. 
 
-I tried two different models:
+Models:
 
 **Decison Tree**
 
@@ -27,6 +27,7 @@ I tried two different models:
 The results revealed that the data set is unbalanced, hence I balanced the data and re-trained both models.
 
 ## Model performance
+
 The Logistic Regression model outperformed the other approach on the test sets. 
 
 **Decison Tree** 

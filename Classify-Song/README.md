@@ -31,13 +31,13 @@ The Logistic Regression model outperformed the other approach on the test sets.
 
 **Decison Tree** 
 
-Before Balancing : 
+*Before Balancing :*
 
 >[[ 173   97]
 
 >[  86 1085]]
 
-After Balancing : 
+*After Balancing :* 
 
 [[ 216   51]
 
@@ -45,13 +45,13 @@ After Balancing :
                     
 **Logistic Regression** 
 
-Before Balancing : 
+*Before Balancing :* 
 
 >[[ 147  123]
 
 >[  35 1136]]
 
-After Balancing : 
+*After Balancing :* 
 
 >[[ 229  38]
 

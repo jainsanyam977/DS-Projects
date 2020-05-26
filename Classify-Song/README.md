@@ -1,1 +1,1 @@
-# Project 1 : Song classifier using echonest data: 
+# Song classification using echonest data: Project Overview

@@ -57,7 +57,7 @@ The Logistic Regression model outperformed the other approach on the test sets.
 
 >[  41 238]]                         
 
-The Cross-Validation results for both models:
+**The Cross-Validation results for both models:**
 
 >Decison Tree: 0.760989010989011
 
